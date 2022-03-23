@@ -72,7 +72,7 @@ nav {
 
 
 .hero {
-    background: no-repeat url("/resources/images/img-mission-background.webp");
+    background: no-repeat url("resources/images/img-mission-background.webp");
     background-position: center;
     height: 700px;
     width: auto;
@@ -128,7 +128,7 @@ nav {
 
 
 .background-location {
-    background-image: url("/resources/images/img-locations-background.webp");
+    background-image: url("resources/images/img-locations-background.webp");
     max-width: 1200px;
     min-height: 500px;
     background-position: center;
